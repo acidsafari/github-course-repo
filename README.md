@@ -1,2 +1,2 @@
 # github-course-repo
-this is a repo for the github course in udemy
+this is temporary repo for the github course in udemy
